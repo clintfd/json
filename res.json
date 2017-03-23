@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "Clinton Wanason",
+    "label": "Backend Developer",
+    "picture": "",
+    "email": "clinton.wanason@flightdigitalmedia.com",
+    "phone": "+639980626296"
+  },
+  "education": [{
+    "institution": "University of the cordilleras",
+    "course": "Information Technology",
+    "studyType": "Bachelor",
+    "startDate": "2009",
+    "endDate": "2013"
+  }],
+  "skills": [{
+    "name": "PHP",
+    "number_of_years": 3
+  }, {
+    "name": "Javascript",
+    "number_of_years": 2
+  }, {
+    "name": "Jquery",
+    "number_of_years": 2
+  }, {
+    "name": "CSS",
+    "number_of_years": 3
+  }, {
+    "name": "Bootstrap",
+    "number_of_years": 2
+  },{
+    "name": "Laravel",
+    "number_of_years": 1
+  },{
+    "name": "Codeigniter",
+    "number_of_years": 1
+  }, {
+    "name": "MySql",
+    "number_of_years": 3
+  }, {
+    "name": "Linux",
+    "number_of_years": 1
+  },{
+    "name": "Git",
+    "number_of_years": 1
+  }, {
+    "name": "ANDROID",
+    "number_of_years": 1
+  }],
+  "work": [{
+    "company": "Flight Digital Media",
+    "position": "Backend Developer",
+    "startDate": "February 13 2017",
+    "endDate": "Present",
+    "summary": "Build RESTful web services. Develop modules in prestashop e commerce framework depending on what the client needs.",
+    "highlights": []
+  },{
+    "company": "Circus Co. Ltd",
+    "position": "Programmer",
+    "startDate": "July 2015",
+    "endDate": "February 2017",
+    "summary": "Created content management system from scratch using php, Created System applications using laravel, Ci frameworks, develop modules for cs cart ecommerce framework to extend the functionality base on the client instruction, develop mobile version of the store using java android.",
+    "highlights": []
+  },{
+    "company": "Sci5 Software Inc..",
+    "position": "Application Developer",
+    "startDate": "May 2014 ",
+    "endDate": "March 2015",
+    "summary": "Develop web applications using codeigniter framework, extended the existing website functionality base on the client instructions",
+    "highlights": []
+  }
+  ],
+  "certification": []
+}

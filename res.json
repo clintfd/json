@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Rex Cruz",
-    "label": "Backend Developer",
-    "picture": "https://media.licdn.com/media/p/8/005/095/163/37256de.jpg",
-    "email": "rex.cruz@flightdigitalmedia.com",
-    "phone": "+639177023913"
+    "name": "Clinton Wanason",
+    "label": "Programmer",
+    "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAqoAAAAJDk0Y2ExZGRkLWE2NDItNGQ1ZC04Y2FjLTJjODE4YTE5NjA0NQ.jpg",
+    "email": "clinton.wanason@flightdigitalmedia.com",
+    "phone": "+639980626296"
   },
   "education": [{
-    "institution": "Bulacan State University",
+    "institution": "University of the Cordilleras",
     "course": "Information Technology",
     "studyType": "Bachelor",
-    "startDate": "2004",
-    "endDate": "2009"
+    "startDate": "2009",
+    "endDate": "2014"
   }],
   "skills": [
     {

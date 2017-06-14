@@ -27,13 +27,13 @@
       "category": "Front-end Frameworks",
       "technologies":[{
         "name" : "React JS",
-        "number_of_years" : 4 months
+        "number_of_years" : 0.4
       }, {
         "name": "Bootstrap",
         "number_of_years": 2
       }, {
         "name": "React JS and Redux",
-        "number_of_years": 4 months
+        "number_of_years": 0.4
       }]
     },{
       "category": "Back-end Frameworks",
@@ -42,7 +42,7 @@
         "number_of_years" : 2
       }, {
         "name": "Parse Platform",
-        "number_of_years": 4 months
+        "number_of_years": 0.4
       }]
     }, {
       "category": "Databases",

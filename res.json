@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Clinton Wanason",
-    "label": "Programmer",
+    "label": "Fullstack Web Developer",
     "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAqoAAAAJDk0Y2ExZGRkLWE2NDItNGQ1ZC04Y2FjLTJjODE4YTE5NjA0NQ.jpg",
     "email": "clinton.wanason@flightdigitalmedia.com",
     "phone": "+639980626296"
@@ -22,68 +22,35 @@
       },{
         "name": "Javascript",
         "number_of_years": 3
-      },{
-        "name" : "React JS",
-        "number_of_years" : 1
       }]
-    },{
-      "category": "Web Technologies",
+    }, {
+      "category": "Front-end Frameworks",
       "technologies":[{
-        "name": "HTML5",
-        "number_of_years": 3
-      }, {
-        "name": "Jquery",
-        "number_of_years": 2
+        "name" : "React JS",
+        "number_of_years" : 4 months
       }, {
         "name": "Bootstrap",
         "number_of_years": 2
       }, {
         "name": "React JS and Redux",
-        "number_of_years": 1
+        "number_of_years": 4 months
+      }]
+    },{
+      "category": "Back-end Frameworks",
+      "technologies":[{
+        "name" : "Laravel",
+        "number_of_years" : 2
       }, {
         "name": "Parse Platform",
-        "number_of_years": 1
+        "number_of_years": 4 months
       }]
-    },{
-      "category": "Development Frameworks",
-      "technologies":[{
-        "name": "Laravel",
-        "number_of_years": 1
-      },{
-        "name": "Codeigniter",
-        "number_of_years": 1
-      }]
-    },{
+    }, {
       "category": "Databases",
       "technologies":[{
         "name": "MySql",
         "number_of_years": 3
       }]
-    },{
-      "category": "Content Management System",
-      "technologies":[{
-        "name": "cscart",
-        "number_of_years": 2
-      }]
-    },{
-      "category": "Version Control",
-      "technologies":[{
-        "name": "Git",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Operating System",
-      "technologies":[{
-        "name": "Linux",
-        "number_of_years": 1
-      }]
-    },{
-      "category": "Integrated Development Environment",
-      "technologies":[{
-        "name": "PHPstorm",
-        "number_of_years": 1
-      }]
-    }
+    },
   ],
   "work": [{
     "company": "Circus Co. Ltd",

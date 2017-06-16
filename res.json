@@ -53,6 +53,35 @@
     }
   ],
   "work": [{
+    "company": "Flight Digital Media",
+    "position": "Full Stack Web Developer",
+    "startDate": "February 2017",
+    "endDate": "Present",
+    "summary": "Develop web applications, RESTful API using php framework, extended the existing website functionality base on the client needs ",
+    "highlights": [],
+    "projects":[{
+      "name":"D2C Beverage",
+      "description":"An ecommerce site developed using prestashop ecommerce php framework that sell beverages",
+      "role":"Developer",
+      "startDate":"February 2017",
+      "endDate":"April 2017",
+      "technologies":"PHP, Mysql"
+    },{
+      "name":"Chatbot API",
+      "description":"A restful API developed using php lumen micro framework, Used by specific facebook group to handle orders.",
+      "role":"Developer",
+      "startDate":"February 2017",
+      "endDate":"April 2017",
+      "technologies":"PHP, Mysql"
+    },{
+      "name":"POWERTEAM",
+      "description":"With the Director’s module, sports enthusiast such as team owners, coaches and players can easily join sports league with ease by using this web app.",
+      "role":"Main Developer",
+      "startDate":"April 2017",
+      "endDate":"July 2017",
+      "technologies":"Javascript, Parse Platform, React Js"
+    }]
+  },{
     "company": "Circus Co. Ltd",
     "position": "Programmer",
     "startDate": "June 2015",
